@@ -32,7 +32,12 @@
     "watch_url": "",
     "description": ""
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Instagram 📸",
+      "url": "https://www.instagram.com/thegirlwithagrillcamden?utm_source=ig_web_button_share_sheet&rpxt=ZDNlZDc0MzIxNw=="
+    }
+  ],
   "mediaGateway": {
     "enabled": false,
     "collections": [
@@ -54,7 +59,7 @@
   "community": {
     "enabled": true,
     "provider": "custom",
-    "name": "Whats's Cookin 🧑🏾‍🍳",
+    "name": "What's Cookin 🧑🏾‍🍳",
     "icon": "./media/community-icon-1794413384356.jpg",
     "buttonText": "Enter Community",
     "url": "",
