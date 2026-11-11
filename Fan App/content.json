@@ -1,18 +1,18 @@
 {
-  "name": "BASE Creator",
-  "bio": "",
-  "contactEmail": "Place Email",
+  "name": "Girl With A Grill App",
+  "bio": "Food That Hit Different!",
+  "contactEmail": "girlwithagrill@gmail.com",
   "contactLabel": "Email",
   "backgroundColor": "#000000",
   "background": {
-    "enabled": false,
-    "type": "none",
-    "url": ""
+    "enabled": true,
+    "type": "image",
+    "url": "./media/background-image-1794413381960.jpg"
   },
   "heroMedia": {
     "enabled": true,
     "type": "image",
-    "url": "./media/hero-image-1783820062284.png",
+    "url": "./media/hero-image-1794413383376.png",
     "animation": "float"
   },
   "chime": {
@@ -20,7 +20,7 @@
     "url": "",
     "volume": 0.65
   },
-  "pillColor": "#000000",
+  "pillColor": "#ff6a00",
   "innerSurface": {
     "style": "default",
     "color": "",
@@ -52,12 +52,17 @@
   },
   "supporters": [],
   "community": {
-    "enabled": false,
+    "enabled": true,
     "provider": "custom",
-    "name": "",
-    "icon": "",
+    "name": "Whats's Cookin 🧑🏾‍🍳",
+    "icon": "./media/community-icon-1794413384356.jpg",
     "buttonText": "Enter Community",
     "url": "",
-    "embed": ""
+    "embed": "https://organizations.minnit.chat/164059194229037/c/Main?embed"
+  },
+  "analytics": {
+    "enabled": false,
+    "provider": "",
+    "snippet": ""
   }
 }
